@@ -1,0 +1,4 @@
+in this is a new file
+:x
+:wq
+
